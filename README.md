@@ -42,7 +42,7 @@ projects I have learnt many new ways to plan and execute how my project will run
 
 
 <p align="center">
-<img width="150" height="200" alt="Logo" src="https://github.com/user-attachments/assets/c1fc5cb6-9852-4e12-b3fc-6bf87d436f2f" />
+<img width="150" height="200" alt="QuaestioCraftor-logo" src="https://github.com/user-attachments/assets/c1fc5cb6-9852-4e12-b3fc-6bf87d436f2f" />
 </p>
 <p align="center">
 <h2 align="center">📱 QuaestioCraftor 📱</h2>   
@@ -66,13 +66,17 @@ This project explores **gamified learning and content creation**.
 The goal was to make education more enjoyable and approachable not just for students, but for anyone who wants to learn or test their knowledge through play.  
 It was also a deep dive into **mobile app development and backend integration** using Supabase.
 
+<p align="center">
+<img width="100" height="150" alt="QuietSpacer-logo" src="https://github.com/user-attachments/assets/35a3409e-a6c8-4c48-80c6-18ad3d48d886" />
+</p>
+
 <h2 align="center">🧘 QuietSpacer 🧘 </h2>
 
 **🔗 Repository:** [View on GitHub](https://github.com/Sean-D-231121/QuietSpacer-App-DV300-Semester-2-Term-3)
 
 #### 📸 Preview / Screenshots  
 <p align="center">
-<img width="80%" alt="QuietSpacer Mockup" src="https://github.com/user-attachments/assets/6916b756-0623-4f15-926a-0ddd06389d95" />
+<img width="80%" alt="QuietSpacer-mockup" src="https://github.com/user-attachments/assets/6916b756-0623-4f15-926a-0ddd06389d95" />
 </p>
 
 #### 📝 Description  
@@ -84,7 +88,7 @@ This app stems from the need to combine **well-being**, **location technology**,
 
 
 <p align="center">
-<img width="100" height="200" alt="Aureume Elegance Logo" src="https://github.com/user-attachments/assets/755387c6-780f-4b9c-9e8d-1bf2b04f5d36" />
+<img width="100" height="200" alt="Aureume-Elegance-logo" src="https://github.com/user-attachments/assets/755387c6-780f-4b9c-9e8d-1bf2b04f5d36" />
 </p>
 
 <h2 align="center">💫 Aureum Elegance 💫</h2>
@@ -94,7 +98,7 @@ This app stems from the need to combine **well-being**, **location technology**,
 
 #### 📸 Preview / Screenshots  
 <p align="center">
-<img width="80%" alt="Aureume Elegance Mockup" src="https://github.com/user-attachments/assets/43348044-5c15-4c1c-8420-c6b5a575cbcf" />
+<img width="80%" alt="Aureume-Elegance-mockup" src="https://github.com/user-attachments/assets/43348044-5c15-4c1c-8420-c6b5a575cbcf" />
 </p>
 
 #### 📝 Description  
