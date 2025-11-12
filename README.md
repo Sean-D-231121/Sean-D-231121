@@ -112,6 +112,12 @@ This project was built with the goal to help a client who has been tirelessly wo
 
 **🔗 Repository:** [View on GitHub](https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4)
 
+#### 📸 **Preview / Screenshots**  
+
+<p align="center">
+  <img src="https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4/blob/main/food_donation_frontend/src/assets/Profile_Donor.png" width="80%" style="margin: 10px 0;" />
+</p>
+
 #### 📝 **Description**  
 **MealBridging** is a **food donation web platform** that connects restaurants, donors, and shelters.  
 It helps reduce food waste by allowing donors to list available meals and organizations to claim them in real time.
@@ -120,11 +126,7 @@ It helps reduce food waste by allowing donors to list available meals and organi
 MealBridging aims to address **food waste and hunger** by creating a digital bridge between those with excess food and those in need.  
 It also reflects my passion for **designing meaningful social impact solutions**.
 
-#### 📸 **Preview / Screenshots**  
 
-<p align="center">
-  <img src="https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4/blob/main/food_donation_frontend/src/assets/Profile_Donor.png" width="80%" style="margin: 10px 0;" />
-</p>
 
 <h1>Some info about me🤔</h1>
 
