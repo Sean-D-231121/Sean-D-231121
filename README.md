@@ -2,9 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=1233123&width=435&lines=I+am+Web+Developer)
 
-
-![Hero image](https://github.com/user-attachments/assets/6d33856b-1df8-4ce1-83e0-699f388dec9e)
-
+![Hero image](https://github.com/user-attachments/assets/1ee6297e-d6e8-4ce0-9b2b-654ab5a310ea)
 
 <h4>Where am I at the moment?🤔 </h4>
 <p>I am currently Studying at Open Window in Centurion. I am in my Final year of Study and I am
