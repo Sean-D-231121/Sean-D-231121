@@ -40,28 +40,8 @@ first Web Dev Job.</p>
 <p> Here are the projects I have made and worked on through learning new technologies.I have gone from using plain javascript to Mobile development and AI. Through these 
 projects I have learnt many new ways to plan and execute how my project will run and how it will has to used according to the users.</p>
 <br>
-<p align="center">
-  <img width="100" height="100" alt="MealBridging logo" src="https://github.com/user-attachments/assets/59dae2bc-57b1-4984-82c3-f01cbdfb612a" />
-</p>
-
-<h2 align="center">🍽️MealBridging🍽️</h2>
-
-**🔗 Repository:** [View on GitHub](https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4)
-
-#### 📝 **Description**  
-**MealBridging** is a **food donation web platform** that connects restaurants, donors, and shelters.  
-It helps reduce food waste by allowing donors to list available meals and organizations to claim them in real time.
-
-#### 🎯 **Purpose / Motivation**  
-MealBridging aims to address **food waste and hunger** by creating a digital bridge between those with excess food and those in need.  
-It also reflects my passion for **designing meaningful social impact solutions**.
 
 
-#### 📸 **Preview / Screenshots**  
-
-<p align="center">
-  <img src="https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4/blob/main/food_donation_frontend/src/assets/Profile_Donor.png" width="80%" style="margin: 10px 0;" />
-</p>
 
 <p align="center">
 <img width="150" height="200" alt="Logo" src="https://github.com/user-attachments/assets/c1fc5cb6-9852-4e12-b3fc-6bf87d436f2f" />
@@ -125,6 +105,28 @@ This app stems from the need to combine **well-being**, **location technology**,
 #### 🎯 Purpose / Motivation  
 This project was built with the goal to help a client who has been tirelessly working on bookkeeping through ordinary means but it has been hard to keep track of orders and how much is produced each month. She wanted an application that can be downloaded and used by their organisation to easily tracks orders and production of fragrances for better bookkeeping.
 
+
+<p align="center">
+  <img width="100" height="100" alt="MealBridging logo" src="https://github.com/user-attachments/assets/59dae2bc-57b1-4984-82c3-f01cbdfb612a" />
+</p>
+
+<h2 align="center">🍽️MealBridging🍽️</h2>
+
+**🔗 Repository:** [View on GitHub](https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4)
+
+#### 📝 **Description**  
+**MealBridging** is a **food donation web platform** that connects restaurants, donors, and shelters.  
+It helps reduce food waste by allowing donors to list available meals and organizations to claim them in real time.
+
+#### 🎯 **Purpose / Motivation**  
+MealBridging aims to address **food waste and hunger** by creating a digital bridge between those with excess food and those in need.  
+It also reflects my passion for **designing meaningful social impact solutions**.
+
+#### 📸 **Preview / Screenshots**  
+
+<p align="center">
+  <img src="https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4/blob/main/food_donation_frontend/src/assets/Profile_Donor.png" width="80%" style="margin: 10px 0;" />
+</p>
 
 <h1>Some info about me🤔</h1>
 
