@@ -104,27 +104,6 @@ This app stems from the need to combine **well-being**, **location technology**,
 This project was built with the goal to help a client who has been tirelessly working on bookkeeping through ordinary means but it has been hard to keep track of orders and how much is produced each month. She wanted an application that can be downloaded and used by their organisation to easily tracks orders and production of fragrances for better bookkeeping.
 
 
-<p align="center">
-  <img width="100" height="100" alt="MealBridging logo" src="https://github.com/user-attachments/assets/59dae2bc-57b1-4984-82c3-f01cbdfb612a" />
-</p>
-
-<h2 align="center">🍽️MealBridging🍽️</h2>
-
-**🔗 Repository:** [View on GitHub](https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4)
-
-#### 📸 **Preview / Screenshots**  
-
-<p align="center">
-  <img src="https://github.com/Sean-D-231121/Food_Donation_DV200_Term_4/blob/main/food_donation_frontend/src/assets/Profile_Donor.png" width="80%" style="margin: 10px 0;" />
-</p>
-
-#### 📝 **Description**  
-**MealBridging** is a **food donation web platform** that connects restaurants, donors, and shelters.  
-It helps reduce food waste by allowing donors to list available meals and organizations to claim them in real time.
-
-#### 🎯 **Purpose / Motivation**  
-MealBridging aims to address **food waste and hunger** by creating a digital bridge between those with excess food and those in need.  
-It also reflects my passion for **designing meaningful social impact solutions**.
 
 
 
