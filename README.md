@@ -1,6 +1,6 @@
 <h1> Hi there I'm Sean Dubbelman👋</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=1233123&width=435&lines=I+am+Web+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=1233123&width=435&lines=I+am+Frontend+Developer+with+bit+backend+experience)
 
 ![Hero image](https://github.com/user-attachments/assets/1ee6297e-d6e8-4ce0-9b2b-654ab5a310ea)
 
